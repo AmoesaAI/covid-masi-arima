@@ -14,7 +14,7 @@ This repository contains Jupyter notebooks and code for:
 ## Reproducibility
 To reproduce results:
 ```bash
-git clone https://github.com/YOUR-USERNAME/covid-masi-arima.git
+git clone https://github.com/AmoesaAI/covid-masi-arima.git
 cd covid-masi-arima
 pip install -r requirements.txt
 jupyter notebook notebooks/cases_arima_analysis.ipynb
